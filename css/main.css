@@ -1,0 +1,44 @@
+.js-list {
+  display: none;
+}
+
+.js-movies  {
+  display: none;
+}
+
+.pokemon__img {
+  display: none;
+}
+
+.moies__img {
+  height: 500px;
+  display: none;
+}
+.item {
+  overflow: hidden;
+}
+
+.item:hover {
+  background-color: rgb(110, 241, 231) !important;
+}
+
+.images:hover {
+  transform: scale(1.19);
+}
+
+.box__select {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn1, .btn2, .btn3{
+  border: none;
+  border-radius: 10px;
+ 
+}
+.btn2 {
+  margin-left: 5px;
+  margin-right: 5px;
+}
